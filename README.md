@@ -19,7 +19,7 @@ This project aims to analyze and uncover key patterns in hotel booking behavior,
 
 ##  Data Summary
 
-The dataset includes over 50MB of booking, room, hotel, and calendar data with the following fact and dimension tables:
+The dataset includes booking, room, hotel, and calendar data with the following fact and dimension tables:
 
 - `fact_bookings`: Individual booking transactions with guest count, status, platform, and revenue.
 - `fact_aggregated_bookings`: Daily capacity and successful booking counts by hotel and room type.
